@@ -1,0 +1,12 @@
+{
+  "num_train_rounds": 116,
+  "num_evaluate_rounds": 112,
+  "initial_train_loss": 3.2802748680114746,
+  "final_train_loss": 0.2254330962896347,
+  "final_evaluate_loss": 0.46236535906791687,
+  "final_weight": 0.5598183870315552,
+  "final_bias": 1.0832716912031173,
+  "mean_training_time_seconds": 0.01619741834443191,
+  "mean_max_rss_kb": 23272.96551724138,
+  "mean_broker_total_seconds": 1.2953930271082912
+}

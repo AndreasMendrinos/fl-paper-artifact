@@ -1,0 +1,19 @@
+{
+  "run_id": "iot_multi_3nodes_20260716_113616_42759",
+  "architecture": "chameleon-superlink-iotlab-multi-a8-proxy",
+  "server_provider": "chameleon",
+  "client_provider": "iot-lab",
+  "iot_site": "grenoble",
+  "iot_nodes": ["node-a8-103", "node-a8-104", "node-a8-105"],
+  "iot_architecture": "armv7l",
+  "iot_python": "3.8.11",
+  "iot_numpy": "1.17.4",
+  "iot_memory_mb": 244,
+  "num_clients": 3,
+  "num_rounds": 10,
+  "local_epochs": 5,
+  "learning_rate": 0.01,
+  "model": "numpy-linear-regression",
+  "target_weight": 2.0,
+  "target_bias": 1.0
+}

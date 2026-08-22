@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+*.pyc
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and credentials
+.env
+*.pem
+*.key
+credentials/
+
+# IDE
+.vscode/
+.idea/
+
+# Runtime data
+data/inventory.json
+data/*.cache.json
+
+# Logs
+*.log
